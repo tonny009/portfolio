@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "React JS",
+        "level": "70"
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "level": "75"
+    },
+    {
+        "id": 3,
+        "name": "HTML",
+        "level": "95"
+    },
+    {
+        "id": 4,
+        "name": "CSS",
+        "level": "95"
+    },
+    {
+        "id": 5,
+        "name": "BootStrap",
+        "level": "90"
+    },
+    {
+        "id": 6,
+        "name": "Tailwind",
+        "level": "90"
+    },
+    {
+        "id": 7,
+        "name": "Rest API",
+        "level": "86"
+    },
+    {
+        "id": 8,
+        "name": "C (Structured Programming Language)",
+        "level": "90"
+    },
+    {
+        "id": 9,
+        "name": "C++",
+        "level": "80"
+    },
+    {
+        "id": 10,
+        "name": "Node JS",
+        "level": "75"
+    },
+    {
+        "id": 11,
+        "name": "Firebase",
+        "level": "70"
+    },
+    {
+        "id": 12,
+        "name": "MongoDB",
+        "level": "75"
+    },
+    {
+        "id": 13,
+        "name": "Python",
+        "level": "70"
+    },
+    {
+        "id": 14,
+        "name": "MySQL",
+        "level": "75"
+    },
+    {
+        "id": 15,
+        "name": "Express JS",
+        "level": "50"
+    },
+    {
+        "id": 16,
+        "name": "PHP",
+        "level": "50"
+    },
+    {
+        "id": 17,
+        "name": "Machine Learning",
+        "level": "60"
+    },
+    {
+        "id": 18,
+        "name": "Natural Language Processing",
+        "level": "50"
+    },
+    {
+        "id": 19,
+        "name": "Git",
+        "level": "80"
+    },
+    {
+        "id": 20,
+        "name": "React Query",
+        "level": "40"
+    },
+    {
+        "id": 21,
+        "name": "Axios",
+        "level": "20"
+    }
+]

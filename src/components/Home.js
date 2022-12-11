@@ -9,16 +9,21 @@ let Link = Scroll.Link;
 const Home = () => {
     return (
         <div name="home"
-            className="h-screen w-full pb-7 bg-gradient-to-b from-blue-900  to-indigo-400 text-white pt-30 md:pt-0">
+            className="h-screen w-full pb-7 bg-gradient-to-b from-blue-900  to-indigo-400 text-white pt-40 md:pt-10">
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-full" >
-                    <h2 className=" text-3xl md:text-7xl font-bold text-white">
-                        I'm a MERN Stack Developer
+                    <h2 className=" text-3xl md:text-6xl font-bold text-white">
+                        Hi, I'm
+                    </h2>
+                    <h2 className=" text-3xl md:text-6xl font-bold text-white ">
+                        Tabassum Islam
+                    </h2>
+                    <h2 className=" text-2xl md:text-4xl font-bold text-white mt-5">
+                        MERN Stack Developer
                     </h2>
                     <p className="text-white py-4 max-w-md">
-                        Hello, I am Tabassum Islam. As a CSE graduate my career is mainly based on building and desgining software.
-                        Currently, I love to work on web application as a MERN stack developer having 6 months hand on experience using powerful web technologies like
-                        React, Tailwind, MongoDB, Node JS, Bootstrap,HTML, CSS.
+                        As a CSE graduate my career is mainly based on building and desgining software.
+                        Currently, I love to work on web application as a MERN stack developer having 6 months hand on experience using powerful web technologies.
                     </p>
                     <div className='flex flex-col md:flex-row '>
                         <Link
@@ -45,7 +50,7 @@ const Home = () => {
                     />
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 
