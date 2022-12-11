@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Easy Buy & Sell",
+        "src": "portfolio/phone.webp",
+        "images": [
+            "easybuy/pic1.png",
+            "easybuy/pic2.png",
+            "easybuy/pic3.png",
+            "easybuy/pic5.png",
+            "easybuy/addproduct.png",
+            "easybuy/myproduct.png"
+        ],
+        "technologies": [
+            "React JS",
+            "JavaScript",
+            "Tailwind",
+            "CSS",
+            "HTML",
+            "Node JS",
+            "Express JS",
+            "Mongodb",
+            "Firebase"
+        ],
+        "type": "Full Stack Project",
+        "live": "https://easy-buy-sell-5fbe5.web.app/",
+        "client": "https://github.com/tonny009/easy-buy-sell",
+        "server": "https://github.com/tonny009/easy-buy-sell-server",
+        "details": "This website's theme is  Recycle Mobile selling and buying platform which is a full-stack project.There is a home page in where four section apprear (Banner,About Us, Mobile Brand Categories ,Advertised Products) and in navbar there are log in,signup and log out options for users with full authentication using Firebase system along with home and blog options and without log in users can't see advertised projects and category productsIn Navber Dashboard option is only for logged in users and a user can sign up as a buyer/seller/admin.Inside each users Dashboard , options are different according to user's role.Admin have power-full accesses like admin can see all sellers/users, all reported products and a admin can also delete users, delete reported products and verify sellers .A seller user can add their products for sale through Add product route and see their products in My Products routes.Besides they also can change the product status (sold/available). They can also send their products in advertise list .Buyers can see all available products with full details and can book /report any product .To buy that product payment method is applied for buyers .In this project user based full authentication and JWT token based verification is ensured."
+    },
+    {
+        "id": 2,
+        "name": "Dream Studio",
+        "src": "portfolio/camera.jpg",
+        "technologies": [
+            "React JS",
+            "JavaScript",
+            "Bootstrap",
+            "Tailwind",
+            "CSS",
+            "HTML",
+            "Node JS",
+            "Express JS",
+            "Mongodb",
+            "Firebase"
+        ],
+        "images": [
+            "dreamstudio/pic1.png",
+            "dreamstudio/pic2.png",
+            "dreamstudio/pic3.png",
+            "dreamstudio/pic4.png",
+            "dreamstudio/pic5.png"
+        ],
+        "type": "Full Stack Project",
+        "live": "https://photograpgy-service.web.app/",
+        "client": "https://github.com/tonny009/dream-studio-client",
+        "server": "https://github.com/tonny009/dream-studio-server",
+        "details": "This project is a full stack responsive project.The theme of the project is Someone’s Photography Website .There is a main home page which users can see first  if they go to the website link.In the home page there are navbar, header, footer, slider and 4 sections like About Us, All services, Contact Message Section.In ‘Our Services Section’ ,  there can be seen only 3 services cards and clicking the “View All Services” it takes other route and all services cards can be seen.In each service card there are important information about the services and there is a button “View Details” by clicking which we can visit another dynamic route of that particular service which shows full details and all reviews about the service. There is also a “Add Review “ button  where user can add the review only if the user is logged in.In each service card there is a service picture by clicking which we can see the picture in full page with large size.There are also some protected pages where user has not the access without login named :“My Reviews”: Here user can seen his/her all comments with delete and edit button and they can edit/delete their comments also and “Add Services”: In this page owner can add any new services to database.In review section reviews are displayed in descending order by time (newest review show first) and also in each review row reviewer name, service name, reviewer image and review text are displayed.In my review route for highest security purpose JWT authentication system applied.Further login and signup are implemented with proper authentication with “Firebase” and there is also option for social login authentication(with google account)."
+    },
+    {
+        "id": 3,
+        "name": "E-Learning",
+        "src": "portfolio/eLearning.jpeg",
+        "technologies": [
+            "React JS",
+            "JavaScript",
+            "Bootstrap",
+            "CSS",
+            "HTML"
+        ],
+        "images": [
+            "elearning/pic1.png",
+            "elearning/pic2.png",
+            "elearning/pic3.png",
+            "elearning/pic4.png"
+        ],
+        "type": "Front End Project",
+        "live": "https://web-development-courses.web.app/",
+        "client": "https://github.com/tonny009/E-Learning",
+        "server": "https://github.com/tonny009/e-learning-server",
+        "details": "This project is fully responsive frontend project built with React JS.This project's theme is about online courses where all courses fake data has been made and created my  own server.There is exclusive navbar regarding some navlinks ,logo, website name , log in and log out button .Further it also display user picture and tooltips name hover on picture if any user is logged in.Here all pages have dynamic route system based on the elements.There is also login and sign up page and in log in page there are added two more options login with google and log in with github.In left side part of home page there can be seen all course details by clicking the wanted one.Inside course details  with all course info there is a button which redirects to that learning materials of that course which is fully restricted with private route.Without log in none can access that course materials or links.In header there is also a button with dar and light text toggling.To access any protected page with log in , after log in it takes user to that exact page.All kinds of authentication during log in and sign up is set up with Firebase authentication system . "
+    },
+    {
+        "id": 4,
+        "name": "Quiz Staition",
+        "src": "portfolio/quiz.jpg",
+        "technologies": [
+            "React JS",
+            "JavaScript",
+            "Bootstrap",
+            "CSS",
+            "HTML"
+        ],
+        "images": [
+            "quiz/pic1.png",
+            "quiz/pic2.png",
+            "quiz/pic3.png"
+        ],
+        "type": "Front End Project",
+        "live": "https://phenomenal-kataifi-f2539f.netlify.app/",
+        "client": "https://github.com/tonny009/quiz-station",
+        "details": "This is a completely responsive quiz-website where quiz topics data is loaded using Context API and display quiz topics in home page which are designed using bootstrap by showing total question number, topic name inside each topic card.We can access any topic’s quiz questions by clicking take quiz Button which dynamically sends user to that particular topic’s quiz-questions and options by accessing another API data dynamically .After selecting any quiz option it detects whether the answer is wrong or correct. Further, by clicking icon button with each question we can see the correct answer of each question with attractive toast.Also there is a Blog section with some question answers and a Statistics section which shows a Bar Chart based on Course topic and Total question number . During vising different pages it perfectly maintains dynamic routes without reloading."
+    }
+]
