@@ -2,6 +2,7 @@ import React from 'react'
 import { useLoaderData } from 'react-router-dom'
 import About from './About'
 import Contact from './Contact'
+import Education from './Education'
 import Footer from './Footer'
 import Home from './Home'
 import Navbar from './Navbar'
@@ -15,8 +16,10 @@ const Main = () => {
     <div>
       <Navbar></Navbar>
       <Home></Home>
-      <Skills></Skills>
       <About></About>
+      <Education></Education>
+      <Skills></Skills>
+
       <Projects projects={projects}></Projects>
       <Publication></Publication>
       <Contact></Contact>
