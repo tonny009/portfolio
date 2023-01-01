@@ -23,7 +23,7 @@ const Certificates = () => {
 
         <div className="grid sm:grid-cols-2  gap-8 px-12 sm:px-0 ">
           {certificate.map(({ id, topic, platform, image }) => (
-            <div className="flex flex-col justify-center ali mb-5 bg-black pt-5 pl-10 pb-5 bg-opacity-40 rounded">
+            <div className="flex flex-col justify-center ali mb-5 shadow-xl shadow-purple-400 bg-black pt-5 pl-10 pb-5 bg-opacity-40 rounded">
               <div className="w-full mb-3 ">
                 <PhotoProvider>
                   <PhotoView src={image}>

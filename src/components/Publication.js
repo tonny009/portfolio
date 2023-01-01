@@ -15,7 +15,7 @@ const Publication = () => {
         </div>
         <div className="grid sm:grid-cols-2 gap-8 px-12 sm:px-0  ">
           {/* <div className="w-full  p-5 rounded bg-gradient-to-b from-black  to-indigo-600 bg-transparent	"> */}
-          <div className="w-full   p-5 rounded bg-black bg-opacity-40	">
+          <div className="w-full shadow-xl shadow-black  p-5 rounded bg-black bg-opacity-40	">
             <h1 className="text-xl font-bold">
               Detecting Bengali Spam SMS Using Recurrent Neural Network
             </h1>
@@ -35,7 +35,7 @@ const Publication = () => {
             </p>
           </div>
 
-          <div className="w-full  p-5 rounded bg-black bg-opacity-40 	">
+          <div className="w-full shadow-xl shadow-black p-5 rounded bg-black bg-opacity-40 	">
             <h1 className="text-xl font-bold">
               Systematic Analysis of Hateful Text Detection Using Machine
               Learning Classifiers
