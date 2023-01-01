@@ -1,6 +1,7 @@
 import React from 'react'
 import { useLoaderData } from 'react-router-dom'
 import About from './About'
+import Certificates from './Certificates'
 import Contact from './Contact'
 import Education from './Education'
 import Footer from './Footer'
@@ -19,9 +20,9 @@ const Main = () => {
       <About></About>
       <Education></Education>
       <Skills></Skills>
-
       <Projects projects={projects}></Projects>
       <Publication></Publication>
+      <Certificates></Certificates>
       <Contact></Contact>
       <Footer></Footer>
     </div>

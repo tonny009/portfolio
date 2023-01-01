@@ -3,7 +3,7 @@ import React from 'react'
 const Publication = () => {
   return (
     <div
-      name="portfolio"
+      name="publication"
       className="bg-gradient-to-b from-blue-900  to-indigo-400 text-white md:h-auto"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full pt-10 pb-10">

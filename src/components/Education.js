@@ -5,7 +5,7 @@ const Education = () => {
   return (
     <div
       name="about"
-      className="w-full h-auto  md:h-screen pt-16 bg-gradient-to-b from-blue-900  to-indigo-400 text-white"
+      className="w-full h-auto  md:h-screen pt-10 bg-gradient-to-b from-blue-900  to-indigo-400 text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8 text-center">
@@ -32,7 +32,7 @@ const Education = () => {
               <p>Graduation Year: 2021</p>
             </div>
             <div className="w-full bg-black bg-opacity-75 p-5 rounded mb-4">
-              <h1>Higer Secondary Certificate </h1>
+              <h1 className="font-extrabold">Higer Secondary Certificate </h1>
               <p>New Govt. Degree College , Rajshahi</p>
               <p>GPA: 5 out of 5</p>
               <p>Year: 2016</p>

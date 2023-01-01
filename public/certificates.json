@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "topic": "As a Brand Ambassador",
+    "platform": "IEEE PES DAY 2021",
+    "image": "certificates/Tabassum-Islam_PES2021_page-0001.jpg"
+  },
+  {
+    "id": 2,
+    "topic": "Presentating our research paper in the 13th ICTS-2021, Indonesia",
+    "platform": "IEEE Indonesia Section",
+    "image": "certificates/ICTS-79.jpg"
+  },
+  {
+    "id": 3,
+    "topic": "Programming for Everybody (Getting Started with python)",
+    "platform": "By University of Michigan | Coursera",
+    "image": "certificates/CourseraPython.jpg"
+  },
+  {
+    "id": 4,
+    "topic": "Python Data Structures",
+    "platform": "By University of Michigan | Coursera",
+    "image": "certificates/pythonDATA_page-0001.jpg"
+  },
+  {
+    "id": 5,
+    "topic": "Introduction to  Cybarsecurity Tools & Cyber Attacks",
+    "platform": "By IBM | Coursera",
+    "image": "certificates/CyberSecurity1_page-0001.jpg"
+  },
+  {
+    "id": 6,
+    "topic": "IELTS Testreport",
+    "platform": "",
+    "image": "certificates/IELTS_page-0001.jpg"
+  },
+  {
+    "id": 7,
+    "topic": "Introduction to Prpgramming With MATLAB",
+    "platform": "Vanderbilt University | Coursera",
+    "image": "certificates/mlab_page-0001.jpg"
+  },
+  {
+    "id": 8,
+    "topic": "Merit Scholarship Certificate",
+    "platform": "Dept. of CSE, East West University",
+    "image": "certificates/MERIT SCHOLARSHIP.jpg"
+  }
+]
