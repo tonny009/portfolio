@@ -54,7 +54,7 @@ const Home = () => {
             // src={MainImage}
             src={secondImage}
             alt="my profile"
-            className="rounded-full w-64 md:w-96 border border-solid border-zinc-300 border-8 shadow-xl shadow-black "
+            className="rounded-full w-64 md:w-80 md:mb-0 mb-8 border border-solid border-zinc-300 border-8 shadow-xl shadow-black "
           />
         </div>
       </div>
