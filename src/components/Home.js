@@ -1,6 +1,6 @@
 import React from 'react'
 import MainImage from '../assets/heroImage.jpg'
-import secondImage from '../assets/second.jpg'
+import secondImage from '../assets/short.png'
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
 import resume from '../assets/mernStackResume.pdf'
 
@@ -54,7 +54,7 @@ const Home = () => {
             // src={MainImage}
             src={secondImage}
             alt="my profile"
-            className="rounded-full w-64 md:w-96 "
+            className="rounded-full w-64 md:w-96 border border-solid border-zinc-300 border-8 shadow-xl shadow-black "
           />
         </div>
       </div>
