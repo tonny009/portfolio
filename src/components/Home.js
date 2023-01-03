@@ -18,7 +18,7 @@ const Home = () => {
           <h2 className=" text-3xl md:text-6xl font-bold text-white">
             Hi, I'm
           </h2>
-          <h2 className=" text-3xl md:text-6xl font-bold text-white ">
+          <h2 className=" text-3xl md:text-5xl font-bold text-white ">
             Tabassum Islam
           </h2>
           <h2 className=" text-2xl md:text-4xl font-bold text-white mt-5">
